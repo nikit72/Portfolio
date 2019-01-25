@@ -42,8 +42,8 @@
     position: relative;
     text-align: center;
     cursor: pointer;
-    background: -webkit-linear-gradient(45deg, #fff8b6 0%, #00d9ff 100%);
-    background: linear-gradient(45deg, #fff8b6 0%, #00d9ff 100%);
+    background: -webkit-linear-gradient(45deg, #8145b9 0%, #b9f4ff 100%);
+  background: linear-gradient(45deg, #8145b9 0%, #b9f4ff 100%);
   }
   
   .hovereffect .overlay {
